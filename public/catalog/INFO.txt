@@ -1,0 +1,224 @@
+🛒 1. Grocery
+
+Image: Grocery basket / supermarket groceries
+
+Name:
+Grocery Services
+
+Price Rs (Recommended):
+[Your Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+Rozmarra ki zarooriyat ka grocery saman asaan aur convenient service ke sath. Ghar ke liye basic grocery items aur daily-use products available.
+
+Link:
+Leave blank
+
+Item code:
+ASE-GROCERY-001
+
+Country of origin:
+Pakistan
+
+📺 2. LED TV / LCD
+
+Image: LED TV with technician repairing it
+
+Name:
+LED TV / LCD Services
+
+Price Rs (Recommended):
+[Your Starting Service Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+LED TV aur LCD ki repairing, troubleshooting aur maintenance services. Professional technician service aur home service available.
+
+Link:
+Leave blank
+
+Item code:
+ASE-TV-002
+
+Country of origin:
+Pakistan
+
+🔥 3. LPG Gas
+
+Image: LPG cylinders
+
+Name:
+LPG Gas Supply
+
+Price Rs (Recommended):
+[Current LPG Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+Ghar aur business ke liye LPG Gas supply aur delivery service. Reliable aur convenient gas delivery aapki zaroorat ke mutabiq.
+
+Link:
+Leave blank
+
+Item code:
+ASE-LPG-003
+
+Country of origin:
+Pakistan
+
+👕 4. Laundry
+
+Image: Washing machine, clean clothes and laundry basket
+
+Name:
+Laundry Services
+
+Price Rs (Recommended):
+[Your Starting Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+Kapron ki washing, cleaning aur laundry services. Saaf sutri, convenient aur reliable service ghar aur business customers ke liye.
+
+Link:
+Leave blank
+
+Item code:
+ASE-LAUNDRY-004
+
+Country of origin:
+Pakistan
+
+❄️ 5. AC Services
+
+Image: Technician servicing wall-mounted AC
+
+Name:
+AC Services
+
+Price Rs (Recommended):
+[Your Starting Service Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+AC installation, servicing, maintenance, cleaning aur repairing ki professional services. Home aur commercial AC services available.
+
+Link:
+Leave blank
+
+Item code:
+ASE-AC-005
+
+Country of origin:
+Pakistan
+
+⚡ 6. Generator Services
+
+Image: Generator with technician
+
+Name:
+Generator Services
+
+Price Rs (Recommended):
+[Your Starting Service Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+Generator repairing, servicing, maintenance aur troubleshooting services. Home aur commercial generators ke liye technical support.
+
+Link:
+Leave blank
+
+Item code:
+ASE-GEN-006
+
+Country of origin:
+Pakistan
+
+🛠️ 7. MAC Services
+
+Image: MacBook / Apple computer with technician
+
+Name:
+MAC Services
+
+Price Rs (Recommended):
+[Your Starting Service Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+MacBook aur MAC devices ki repairing, maintenance, troubleshooting aur technical support services. Professional technical assistance available.
+
+Link:
+Leave blank
+
+Item code:
+ASE-MAC-007
+
+Country of origin:
+Pakistan
+
+🔌 8. Electrician
+
+Image: Electrician working on electrical panel
+
+Name:
+Electrician Services
+
+Price Rs (Recommended):
+[Your Starting Service Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+Ghar aur business ke liye electrical installation, repairing, wiring aur maintenance services. Reliable electrician service available.
+
+Link:
+Leave blank
+
+Item code:
+ASE-ELEC-008
+
+Country of origin:
+Pakistan
+
+💧 9. Water Supply
+
+Image: Water tanker / water delivery
+
+Name:
+Water Supply Services
+
+Price Rs (Recommended):
+[Your Water Supply Price]
+
+Sale price Rs:
+[Optional]
+
+Description:
+Ghar, office aur business ke liye reliable water supply aur delivery service. Zaroorat ke mutabiq water delivery available.
+
+Link:
+Leave blank
+
+Item code:
+ASE-WATER-009
+
+Country of origin:
+Pakistan
